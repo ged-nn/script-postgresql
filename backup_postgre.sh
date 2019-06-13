@@ -1,6 +1,8 @@
 #!/bin/sh
 PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 
+
+## https://infostart.ru/public/956734/
 backup() {
 
 	PGPASSWORD=password
